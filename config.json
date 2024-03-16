@@ -1,0 +1,6 @@
+{
+    "tenth_base_url" : "https://rajeduboard.rajasthan.gov.in/RESULT2023/SEV/Roll_Output.asp?roll_no=",
+    "twelfth_science_base_url" : "https://rajeduboard.rajasthan.gov.in/RESULT2023/SCIENCE/Roll_Output.asp?roll_no=",
+    "twelfth_commerce_base_url" : "https://rajeduboard.rajasthan.gov.in/RESULT2023/COMM/Roll_Output.asp?roll_no=",
+    "twelfth_arts_base_url" : "https://rajeduboard.rajasthan.gov.in/RESULT2023/ARTS/Roll_Output.asp?roll_no="
+}
