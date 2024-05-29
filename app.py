@@ -6,7 +6,6 @@ from concurrent.futures import ThreadPoolExecutor
 import time
 import json
 import threading
-import requests
 
 # configuring pdfkit to point to our installation of wkhtmltopdf  
 config = pdfkit.configuration(wkhtmltopdf = "wkhtmltopdf.exe")  

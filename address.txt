@@ -1,0 +1,10 @@
+hindi = /html/body/div/center/table/tbody/tr[6]/td/div/center/table[1]/tbody/tr[3]/td[6]/font
+eng =   /html/body/div/center/table/tbody/tr[6]/td/div/center/table[1]/tbody/tr[4]/td[6]/font
+science = /html/body/div/center/table/tbody/tr[6]/td/div/center/table[1]/tbody/tr[5]/td[6]/font
+ss = /html/body/div/center/table/tbody/tr[6]/td/div/center/table[1]/tbody/tr[6]/td[6]/font
+maths = /html/body/div/center/table/tbody/tr[6]/td/div/center/table[1]/tbody/tr[7]/td[6]/font
+sanskrit = /html/body/div/center/table/tbody/tr[6]/td/div/center/table[1]/tbody/tr[8]/td[6]/font
+
+name = /html/body/div/center/table/tbody/tr[3]/td[2]/font
+roll no = /html/body/div/center/table/tbody/tr[2]/td/div/center/table/tbody/tr[2]/td[1]/font
+
